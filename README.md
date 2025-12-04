@@ -1,1 +1,53 @@
-# Situa-o-Problema-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>⚽ Estrela FC – Evolução com Números</h1>
+    </header>
+    <section class="container">
+        <div class="card">
+            <h2>📌 Situação</h2>
+            <p>
+                O Estrela FC vinha em uma sequência ruim: perdeu <strong>4 dos últimos 5 jogos</strong>.  
+                Em média, o time errava <strong>28 passes por partida</strong> e mantinha apenas  
+                <strong>42% de posse de bola</strong>.
+            </p>
+            <p>
+                Em um dos jogos, por exemplo, o time tentou <strong>310 passes</strong>, mas acertou somente 
+                <strong>223</strong>, resultando em <strong>71,9% de precisão</strong>.
+            </p>
+            <p>
+                Para ter um bom desempenho, a comissão técnica calculou que o ideal seria alcançar
+                pelo menos <strong>85% de precisão</strong> nos passes.
+            </p>
+        </div>
+        <div class="card">
+            <h2>📊 Os Treinos</h2>
+            <p>
+                Nos treinos, os jogadores precisavam completar sequências de  
+                <strong>50 passes contínuos</strong> sem perder a bola.  
+                No primeiro dia, conseguiram apenas <strong>22</strong>.  
+                Após uma semana, chegaram a <strong>47</strong>, mostrando evolução de 
+                <strong>113% em relação ao início</strong>.
+            </p>
+        </div>
+        <div class="card">
+            <h2>✅ Resultado Final</h2>
+            <p>
+                No jogo seguinte, a posse de bola subiu para <strong>58%</strong> e a precisão de passes chegou a 
+                <strong>88,3%</strong> — acima da meta.
+            </p>
+            <p>
+                O time finalizou <strong>11 vezes</strong> e marcou <strong>3 gols</strong>, vencendo a partida por  
+                <strong>3x1</strong>.  
+                A eficiência de finalização foi de <strong>27%</strong> (3 gols / 11 finalizações).
+            </p>
+        </div>
+    </section>
+</body>
+</html>
